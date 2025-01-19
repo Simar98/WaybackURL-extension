@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 10px;
+    width: 400px; /* Popup ka overall size increase kare */
+    height: auto; /* Height ko auto karein taaki content ke hisab se adjust ho */
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  h3 {
+    color: black; /* Aapke naam aur tool ka naam black color mein dikhane ke liye */
+    text-align: center;
+    margin: 0; /* Extra margin hata diya */
+  }
+  
+  input {
+    padding: 10px; /* Padding increase kare */
+    font-size: 16px; /* Font size increase kare */
+    width: calc(100% - 20px); /* Input box ko frame ke andar fit kare */
+    box-sizing: border-box; /* Padding aur border ko width mein include kare */
+    border: 1px solid #ccc; /* Border add kare */
+    border-radius: 4px; /* Thoda rounded corners */
+  }
+  
+  button {
+    padding: 12px; /* Button ka padding increase kare */
+    background-color: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px; /* Button ka font size increase kare */
+    border-radius: 4px; /* Thoda rounded corners */
+  }
+  
+  button:hover {
+    background-color: darkblue;
+  }

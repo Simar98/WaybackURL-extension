@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "WaybackURL by Simar Randhawa",  
+  "version": "1.0",
+  "description": "Modifies URLs by removing 'http://' or 'https://' and replaces the domain. Created by Simar Randhawa.",  <!-- Yahan bhi aapka naam add kiya gaya hai -->
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    }
+  },
+  "permissions": ["tabs"]
+}
