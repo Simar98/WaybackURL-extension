@@ -16,8 +16,6 @@ A Chrome extension that modifies URLs by removing `http://` or `https://` and re
 3. Enter the URL in the input box.
 4. Click the "Open" button to open the modified URL in a new tab.
 
-## Screenshot
-![Screenshot](screenshot.png) <!-- Add a screenshot of your extension here -->
 
 ## Code Structure
 - `manifest.json`: Configuration file for the Chrome extension.
