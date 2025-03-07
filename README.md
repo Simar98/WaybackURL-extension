@@ -28,7 +28,7 @@ A Chrome extension that modifies URLs by removing `http://` or `https://` and re
 ## Author
 - **Simar Randhawa**  
   GitHub: [Simar Randhawa](https://github.com/YourGitHubUsername)  
-  Email: your.email@example.com
+  Email: www.simarrandhawa@gmail.com
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
